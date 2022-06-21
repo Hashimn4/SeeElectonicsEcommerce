@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/SeeElectronicsEcommerce/static/css/main.204e2475.css",
-    "main.js": "/SeeElectronicsEcommerce/static/js/main.d77a3edb.js",
-    "static/js/787.c875205c.chunk.js": "/SeeElectronicsEcommerce/static/js/787.c875205c.chunk.js",
-    "static/media/unagi_model_one.jpeg": "/SeeElectronicsEcommerce/static/media/unagi_model_one.c7eae9fda5ffc6cfab20.jpeg",
-    "static/media/glion_dolly.jpeg": "/SeeElectronicsEcommerce/static/media/glion_dolly.7a1f2c5b0c4d42e3874d.jpeg",
-    "static/media/segway_ninebot_kickstarter_max.webp": "/SeeElectronicsEcommerce/static/media/segway_ninebot_kickstarter_max.230514f1fadb857ac377.webp",
-    "static/media/razer_e100.png": "/SeeElectronicsEcommerce/static/media/razer_e100.a2dd76d0f34ba04cce96.png",
-    "static/media/apollo_city.jpeg": "/SeeElectronicsEcommerce/static/media/apollo_city.7016349903323355db30.jpeg",
-    "static/media/laptop.jpeg": "/SeeElectronicsEcommerce/static/media/laptop.40b59173fd893302bcf1.jpeg",
-    "static/media/SmartWatch.jpeg": "/SeeElectronicsEcommerce/static/media/SmartWatch.4268197d65b9954b8bac.jpeg",
-    "static/media/tv.png": "/SeeElectronicsEcommerce/static/media/tv.59ac4ae9976bba86bcd6.png",
-    "static/media/swagtron_swagger_5_elite.jpeg": "/SeeElectronicsEcommerce/static/media/swagtron_swagger_5_elite.2e792bfbb4ba0b565b3c.jpeg",
-    "static/media/electricscooters.jpeg": "/SeeElectronicsEcommerce/static/media/electricscooters.60b143d87884a1741f24.jpeg",
-    "static/media/Gaming.jpeg": "/SeeElectronicsEcommerce/static/media/Gaming.e211afde390a76ef4e11.jpeg",
-    "static/media/wifi.webp": "/SeeElectronicsEcommerce/static/media/wifi.5bae63941da7fa946ce8.webp",
-    "index.html": "/SeeElectronicsEcommerce/index.html",
-    "main.204e2475.css.map": "/SeeElectronicsEcommerce/static/css/main.204e2475.css.map",
-    "main.d77a3edb.js.map": "/SeeElectronicsEcommerce/static/js/main.d77a3edb.js.map",
-    "787.c875205c.chunk.js.map": "/SeeElectronicsEcommerce/static/js/787.c875205c.chunk.js.map"
+    "main.css": "/SeeElectonicsEcommerce/static/css/main.204e2475.css",
+    "main.js": "/SeeElectonicsEcommerce/static/js/main.c371406e.js",
+    "static/js/787.c875205c.chunk.js": "/SeeElectonicsEcommerce/static/js/787.c875205c.chunk.js",
+    "static/media/unagi_model_one.jpeg": "/SeeElectonicsEcommerce/static/media/unagi_model_one.c7eae9fda5ffc6cfab20.jpeg",
+    "static/media/glion_dolly.jpeg": "/SeeElectonicsEcommerce/static/media/glion_dolly.7a1f2c5b0c4d42e3874d.jpeg",
+    "static/media/segway_ninebot_kickstarter_max.webp": "/SeeElectonicsEcommerce/static/media/segway_ninebot_kickstarter_max.230514f1fadb857ac377.webp",
+    "static/media/razer_e100.png": "/SeeElectonicsEcommerce/static/media/razer_e100.a2dd76d0f34ba04cce96.png",
+    "static/media/apollo_city.jpeg": "/SeeElectonicsEcommerce/static/media/apollo_city.7016349903323355db30.jpeg",
+    "static/media/laptop.jpeg": "/SeeElectonicsEcommerce/static/media/laptop.40b59173fd893302bcf1.jpeg",
+    "static/media/SmartWatch.jpeg": "/SeeElectonicsEcommerce/static/media/SmartWatch.4268197d65b9954b8bac.jpeg",
+    "static/media/tv.png": "/SeeElectonicsEcommerce/static/media/tv.59ac4ae9976bba86bcd6.png",
+    "static/media/swagtron_swagger_5_elite.jpeg": "/SeeElectonicsEcommerce/static/media/swagtron_swagger_5_elite.2e792bfbb4ba0b565b3c.jpeg",
+    "static/media/electricscooters.jpeg": "/SeeElectonicsEcommerce/static/media/electricscooters.60b143d87884a1741f24.jpeg",
+    "static/media/Gaming.jpeg": "/SeeElectonicsEcommerce/static/media/Gaming.e211afde390a76ef4e11.jpeg",
+    "static/media/wifi.webp": "/SeeElectonicsEcommerce/static/media/wifi.5bae63941da7fa946ce8.webp",
+    "index.html": "/SeeElectonicsEcommerce/index.html",
+    "main.204e2475.css.map": "/SeeElectonicsEcommerce/static/css/main.204e2475.css.map",
+    "main.c371406e.js.map": "/SeeElectonicsEcommerce/static/js/main.c371406e.js.map",
+    "787.c875205c.chunk.js.map": "/SeeElectonicsEcommerce/static/js/787.c875205c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.204e2475.css",
-    "static/js/main.d77a3edb.js"
+    "static/js/main.c371406e.js"
   ]
 }
